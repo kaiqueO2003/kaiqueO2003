@@ -14,4 +14,4 @@
 </div>
 
 ##
-Atualmente estou cursando análise e desenvolvimento de sistema. Tive meu primeiro contato com programação, por conta do curso de automação industrial integrado ao ensino médio, a partir do mesmo, comecei a me aprofundar e desenvolver curiosidade do assunto. Tenho interesse de crescer profissionalmente e academicamente como programador.
+Atualmente estou cursando análise e desenvolvimento de sistema. Tive meu primeiro contato com programação, por conta do curso de automação industrial integrado ao ensino médio, a partir do mesmo, comecei a me aprofundar e desenvolver curiosidade sobre o assunto. Tenho interesse de crescer profissionalmente e academicamente como programador.
