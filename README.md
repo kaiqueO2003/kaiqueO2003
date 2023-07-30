@@ -1,6 +1,6 @@
 ### Oi, eu sou o Kaique_Oliveira
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-oliveira-771b0b25b])
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kaique-oliveira-571a51203/))
 
 ![Bruna GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiqueO2003&show_icons=true&theme=radical)
 
