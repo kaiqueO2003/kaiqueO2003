@@ -14,4 +14,4 @@
 </div>
 
 ##
-Atualmente estou cursando análise e desenvolvimento de sistema. Tive meu primeiro contato com programação, por conta do curso de automação industrial integrado ao ensino médio, a partir do mesmo, comecei a me aprofundar e desenvolver curiosidade sobre o assunto. Tenho interesse de crescer profissionalmente e academicamente como programador, para isso estou realizando o curso profissionalizante da oracle com alura focado na area de back end, na linguagem JAVA.
+Formado em Análise e Desenvolvimento de Sistemas, com especialização em desenvolvimento back end utilizando Java. Tenho experiência em Spring Boot, desenvolvimento de APIs, gerenciamento de bancos de dados, Git e versionamento de código. Estou sempre buscando aprimorar minhas habilidades técnicas e contribuir para projetos desafiadores e inovadores.
