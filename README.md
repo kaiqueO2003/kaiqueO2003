@@ -5,13 +5,15 @@
 
 ## Tecnologias que utilizo
 
+
 <div style="display: inline_block"><br/>
-  <img alt="MYSQL" align="center" src="https://img.shields.io/badge/MYSQL-E34F26?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="JAVA" align="center" src="https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="MYSQL" align="center" src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="JAVA" align="center" src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="HTML" align="center" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS" align="center" src="https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=css&logoColor=white" />
+  <img alt="CSS" align="center" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
   <img alt="Spring Boot" align="center" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div>
+
  
 
 
