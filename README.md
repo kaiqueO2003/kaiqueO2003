@@ -52,5 +52,4 @@ Minha formação é em **Análise e Desenvolvimento de Sistemas**, e desde entã
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/kaique-oliveira-571a51203/)
-- _(adicione e-mail ou outro canal, se quiser divulgar)_
+- [LinkedIn](https://www.linkedin.com/in/kaique-oliveira-9a8b84426/)
