@@ -24,24 +24,41 @@ Dev Back End na **Nagumo**, atuando com Python e FastAPI no dia a dia. Formado e
 
 ---
 
-## 🚀 Projetos em destaque
+## 💼 Experiência
 
-- **Sistema de gestão de entregas** — FastAPI + React Native + WebSockets + Leaflet, para rastreamento em tempo real.
-- _(adicione aqui mais 1-2 repositórios fixados, com uma linha de descrição cada)_
+Atuo como **Dev Back End na Nagumo**, trabalhando com Python e FastAPI na construção e manutenção de APIs. Antes disso, desenvolvi experiência com Java e Spring Boot, incluindo desenvolvimento de APIs REST, modelagem e gerenciamento de bancos de dados, e versionamento de código com Git.
+
+Minha formação é em **Análise e Desenvolvimento de Sistemas**, e desde então venho me aprofundando em arquitetura de software e boas práticas de engenharia — sempre buscando entender o "porquê" por trás de cada padrão, não só aplicá-lo.
+
+---
+
+## 🎯 Em foco no momento
+
+- Padrões de arquitetura: **Service/Repository, Unit of Work, Hexagonal, DDD**
+- Testes unitários com **pytest** (mocking de sessões SQLAlchemy, `MagicMock(spec=Session)`)
+- Python assíncrono (**httpx, asyncio.gather, Semaphore**) aplicado a FastAPI/SQLAlchemy
+- **Docker e CI/CD** — fechando gaps que identifiquei como prioridade de curto prazo
+- Fundamentos sólidos: Big O, recursão, subqueries/CTEs em SQL, estruturas de dados, otimização de queries
 
 ---
 
 ## 📊 GitHub Stats
 
 <div style="display: inline_block"><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaique-Oliveira&show_icons=true&theme=default" alt="Kaique's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiqueO2003&show_icons=true&theme=default" alt="Kaique's GitHub Stats"/>
 </div>
 
-> Troque `Kaique-Oliveira` pelo seu username real do GitHub para o card funcionar.
+
+<div style="display: inline_block"><br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-Oliveira&layout=compact&theme=default" alt="Top Languages"/>
+</div>
+
+<div style="display: inline_block"><br/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaique-Oliveira&theme=default" alt="GitHub Streak"/>
+</div>
 
 ---
 
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/kaique-oliveira-571a51203/)
-- _(adicione e-mail ou outro canal, se quiser divulgar)_
