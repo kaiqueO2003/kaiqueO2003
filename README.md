@@ -45,16 +45,7 @@ Minha formação é em **Análise e Desenvolvimento de Sistemas**, e desde entã
 ## 📊 GitHub Stats
 
 <div style="display: inline_block"><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiqueO2003&show_icons=true&theme=default" alt="Kaique's GitHub Stats"/>
-</div>
-
-
-<div style="display: inline_block"><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-Oliveira&layout=compact&theme=default" alt="Top Languages"/>
-</div>
-
-<div style="display: inline_block"><br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaique-Oliveira&theme=default" alt="GitHub Streak"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiqueO2003&theme=default" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -62,3 +53,4 @@ Minha formação é em **Análise e Desenvolvimento de Sistemas**, e desde entã
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/kaique-oliveira-571a51203/)
+- _(adicione e-mail ou outro canal, se quiser divulgar)_
