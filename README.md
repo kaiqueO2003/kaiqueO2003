@@ -45,7 +45,7 @@ Minha formação é em **Análise e Desenvolvimento de Sistemas**, e desde entã
 ## 📊 GitHub Stats
 
 <div style="display: inline_block"><br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiqueO2003&theme=default" alt="GitHub Streak"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiqueO2003&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
